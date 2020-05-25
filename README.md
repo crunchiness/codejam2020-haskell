@@ -1,4 +1,4 @@
 ```
 ghc Task1.hs
-cat input.txt | ./Task1
+cat input1.txt | ./Task1
 ```
